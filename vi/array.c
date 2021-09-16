@@ -1,3 +1,4 @@
+/* used for learning the basics of vi */
 /* array.c -- read, reverse, and write an array of integers */
 
 #include <stdio.h>
